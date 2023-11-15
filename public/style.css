@@ -4,9 +4,11 @@ body {
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
 	color: #222;
-	background-color: #FaFaFa;
+	/* background-color: #FaFaFa; */
+	background-color: gray;
 	text-align: center;
 	line-height: 1.4em;
+  color: aliceblue;
 }
 
 .container {
@@ -29,8 +31,10 @@ hr {
 code {
   font-family: monospace;
   padding: 2px;
-  color: black;
-  background-color: #fff;
+  /* color: black; */
+  /* background-color: #fff; */
+  color: aliceblue;
+  background-color: gray;
 }
 
 ul {
@@ -42,5 +46,6 @@ li {
 }
 
 a {
-	color: #2574A9;
+	/* color: #2574A9; */
+	color: lightskyblue;
 }

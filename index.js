@@ -1,6 +1,9 @@
 // index.js
 // where your node app starts
 
+// IN THIS PROJECT YOUR PERSONAL GOAL, BESIDES FINISHING THE TASK, IS TOO MAP AND UNDERSTAND THE COMMUNICATION BETWEEN 
+// FRONT AND BACK END! HAVE FUN 🥕 :D
+
 // init project
 var express = require('express');
 var app = express();
