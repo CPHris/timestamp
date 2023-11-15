@@ -1,0 +1,3 @@
+# Notes
+
+What can I use an .md file for i wonder...
